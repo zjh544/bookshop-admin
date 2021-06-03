@@ -1,0 +1,72 @@
+{
+  "id": "2479344",
+  "name": "bookshop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "578363",
+      "name": "电话",
+      "font_class": "002dianhua",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "578383",
+      "name": "books，书架",
+      "font_class": "books",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "579859",
+      "name": "QQ",
+      "font_class": "qq",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "579860",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "579861",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "582292",
+      "name": "查看订单",
+      "font_class": "065chakandingdan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "582293",
+      "name": "编辑账户",
+      "font_class": "066bianjizhanghu",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "583728",
+      "name": "家庭",
+      "font_class": "080jiating",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "586088",
+      "name": "user",
+      "font_class": "user11",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}
