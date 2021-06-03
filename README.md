@@ -1,4 +1,5 @@
 # bookshop-admin
+http://47.106.245.151:8081/
 
 ## Project setup
 ```
